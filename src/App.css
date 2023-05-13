@@ -1,0 +1,20 @@
+:root {
+    background-color: #ffffff75;
+}
+
+.Main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+button {
+    border: solid .8;
+    border-radius: 15px;
+    cursor: pointer;
+
+
+}
